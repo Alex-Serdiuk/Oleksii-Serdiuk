@@ -40,5 +40,13 @@ Spring boot API:
 Android App:
 [Notes Client](https://github.com/Alex-Serdiuk/HW_6_AndroidApi_FinalProject)
 
+#### Databases
 
+Microsoft SQL Server, MySQL
+
+### 👩🏼‍🎓 Education
+
+2020—2023 — [STEP IT Academy](https://itstep.org/en), majoring in Software Development
+2009-2015 - [National University "Zaporizhzhia Polytechnic"](https://zp.edu.ua/national-university-zaporizhzhia-polytechnic), engineer-mechanic
+2010-2015 - [National University "Zaporizhzhia Polytechnic"](https://zp.edu.ua/national-university-zaporizhzhia-polytechnic), financier
 
