@@ -24,6 +24,21 @@ ASP.NET Core MVC:
 ASP.NET Core Web API:
 [ToDo server](https://github.com/Alex-Serdiuk/HW_15_10_23/tree/with_react)
 
+#### HTML5, CSS, JavaScript
 ReactJS:
 [ToDo client](https://github.com/Alex-Serdiuk/todo-client/tree/master)
+
+#### Java
+
+Android software development, Sping, Hibernate
+
+You can find code examples in my github account:
+
+Spring boot API:
+[Notes Server](https://github.com/Alex-Serdiuk/HW_6_ServerApi_FinalProject/)
+
+Android App:
+[Notes Client](https://github.com/Alex-Serdiuk/HW_6_AndroidApi_FinalProject)
+
+
 
