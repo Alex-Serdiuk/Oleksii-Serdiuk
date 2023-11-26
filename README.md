@@ -19,4 +19,11 @@ WPF:
 [TCP Chat](https://github.com/Alex-Serdiuk/Chat/tree/serdiuk_examples), [Household Budget](https://github.com/Alex-Serdiuk/Household_Budget/tree/master),
 
 ASP.NET Core MVC:
-[Employees Managment](https://github.com/Alex-Serdiuk/HW_17_09_23/tree/with_authorization),
+[Employees Managment](https://github.com/Alex-Serdiuk/HW_17_09_23/tree/with_authorization)
+
+ASP.NET Core Web API:
+[ToDo server](https://github.com/Alex-Serdiuk/HW_15_10_23/tree/with_react)
+
+ReactJS:
+[ToDo client](https://github.com/Alex-Serdiuk/todo-client/tree/master)
+
