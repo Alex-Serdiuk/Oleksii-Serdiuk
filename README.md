@@ -15,6 +15,7 @@ From 2020 to 2024, I studied at the [STEP IT Academy](https://itstep.org/en), ma
 WPF, Windows Forms, ASP.NET MVC, Web API, ADO.NET, Entity Framework
 
 You can find code examples in my github account:
+
 ASP.NET Core Web API:
 [Booking server](https://github.com/Alex-Serdiuk/Booking/tree/azure-pipeline),
 [ToDo server](https://github.com/Alex-Serdiuk/HW_15_10_23/tree/with_react)
