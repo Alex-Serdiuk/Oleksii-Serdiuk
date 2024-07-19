@@ -16,7 +16,7 @@ WPF, Windows Forms, ASP.NET MVC, Web API, ADO.NET, Entity Framework
 
 You can find code examples in my github account:
 ASP.NET Core Web API:
-[Booking server](https://github.com/Alex-Serdiuk/Booking/tree/azure-pipeline)
+[Booking server](https://github.com/Alex-Serdiuk/Booking/tree/azure-pipeline),
 [ToDo server](https://github.com/Alex-Serdiuk/HW_15_10_23/tree/with_react)
 
 ASP.NET Core MVC:
@@ -28,8 +28,8 @@ WPF:
 
 #### HTML5, CSS, JavaScript
 ReactJS:
-[Booking client for customers](https://github.com/Alex-Serdiuk/BookingClient/tree/azure)
-[Booking client for admin](https://github.com/Alex-Serdiuk/BookingAdmin/tree/azure)
+[Booking client for customers](https://github.com/Alex-Serdiuk/BookingClient/tree/azure), 
+[Booking client for admin](https://github.com/Alex-Serdiuk/BookingAdmin/tree/azure), 
 [ToDo client](https://github.com/Alex-Serdiuk/todo-client/tree/master)
 
 #### Java
