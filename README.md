@@ -47,7 +47,7 @@ Android App:
 
 #### Databases
 
-Microsoft SQL Server, MySQL
+Microsoft SQL Server, MySQL, SQLite
 
 ### 👩🏼‍🎓 Education
 
