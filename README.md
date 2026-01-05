@@ -56,7 +56,7 @@ Microsoft SQL Server, MySQL
 2010-2015 - [National University "Zaporizhzhia Polytechnic"](https://zp.edu.ua/national-university-zaporizhzhia-polytechnic), financier<br>
 
 ### 💬 Languages
-🇺🇸 English: Intermediate, 🇺🇦 Ukrainian: Native, 🇷🇺 Russian: Native, 🇵🇱 Polish: Beginner
+🇺🇸 English: Upper-Intermediate, 🇺🇦 Ukrainian: Native, 🇷🇺 Russian: Native, 🇵🇱 Polish: Beginner
 
 #### 🚗 Category B driving license
 
